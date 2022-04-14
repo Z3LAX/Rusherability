@@ -32,6 +32,7 @@
 | Phosphor        | No     | [Website](https://www.curseforge.com/minecraft/mc-mods/phosphor)   |
 | Vanilla Fix        | No     | [Website](https://www.curseforge.com/minecraft/mc-mods/vanillafix)   |
 | Replay Mod        | Yes     | [Website](https://www.replaymod.com/download/)   |
+| Particle Culling       | Yes     | [Website](https://www.curseforge.com/minecraft/mc-mods/particle-culling/)   |
 
 
  # Clients
@@ -49,6 +50,7 @@
 | Lambda        | Yes     | [Website](https://github.com/lambda-client/lambda/)   |
 | Seppuku        | No     | [Website](https://seppuku.pw)   |
 | Phobos *       | Yes     | No Link   |
+
 
 *Be careful with phobos as it has a sketchy background, I will not be providing a link as I don't want to be responsible for someone being ratted.
   
