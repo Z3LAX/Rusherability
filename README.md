@@ -46,6 +46,7 @@
 | Wurst+3        | Yes     | [Website](https://github.com/TrvsF/wurst-plus-three)   |
 | Gamesense        | Yes     | [Website](https://github.com/IUDevman/gamesense-client)   |
 | Future        | Yes     | [Website](https://www.futureclient.net/)   |
+| Lambda        | Yes     | [Website](https://github.com/lambda-client/lambda/)   |
 
   
  # Support
