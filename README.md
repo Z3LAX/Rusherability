@@ -32,6 +32,12 @@
 | Phosphor        | No     | [Website](https://www.curseforge.com/minecraft/mc-mods/phosphor)   |
 | Vanilla Fix        | No     | [Website](https://www.curseforge.com/minecraft/mc-mods/vanillafix)   |
 | Replay Mod        | Yes     | [Website](https://www.replaymod.com/download/)   |
+
+
+ # Clients
+
+| Name          | Works?        | Download   
+| ------------- | ------------- | --------    | 
 | Impact        | Yes     | [Website](https://impactclient.net)   |
 | Ares        | Yes     | [Website](https://aresclient.github.io/)   |
 | Inertia        | Yes     | [Website](https://inertiaclient.com/)   |
@@ -43,5 +49,6 @@
 
   
   </div>
-
+# Support
 If you have any issues or if there is an error with the list please message me on discord @ toast#5673
+[RusherHack Discord](https://discord.com/invite/nvcCyVKuWy)
