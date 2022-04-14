@@ -43,3 +43,5 @@
 
   
   </div>
+
+If you have any issues or if there is an error with the list please message me on discord @ toast#5673
