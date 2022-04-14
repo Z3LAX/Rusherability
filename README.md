@@ -9,7 +9,7 @@
   
   
   
-  * A collection of mods tested with RusherHack *
+  ` A collection of mods tested with RusherHack `
 
 
 
