@@ -9,7 +9,7 @@
   
   
   
-  ***A collection of mods tested with RusherHack***
+  *** A collection of mods tested with RusherHack ***
 
 
 
@@ -24,7 +24,7 @@
 
 | Name          | Works?        | Download   
 | ------------- | ------------- | --------    |
-| Optifine      | Yes.          | [Website](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=1224)  |
+| Optifine      | Yes         | [Website](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=1224)  |
 | BetterFps        | Yes     | [Website](https://www.curseforge.com/minecraft/mc-mods/betterfps/)   |
 | Chunk Pregenerate       | No     | [Website](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator/)   |
 | Foamfix        | No     | [Website](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod)   |
