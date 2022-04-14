@@ -2,7 +2,7 @@
 # Rusherability
 
 
-<div align="center">
+
 
 ***A collection of mods tested with RusherHack***
 
