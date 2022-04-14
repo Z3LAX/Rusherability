@@ -36,7 +36,7 @@
 | Ares        | Yes     | [Website](https://aresclient.github.io/)   |
 | Inertia        | Yes     | [Website](https://inertiaclient.com/)   |
 | SalHack        | Yes     | [Website](https://salhack.com/)   |
-| Konas        | No Comment     | [Website](https://konasclient.com/)   |
+| Konas        | Yes     | [Website](https://konasclient.com/)   |
 | Wurst+3        | Yes     | [Website](https://github.com/TrvsF/wurst-plus-three)   |
 | Gamesense        | Yes     | [Website](https://github.com/IUDevman/gamesense-client)   |
 | Future        | Yes     | [Website](https://www.futureclient.net/)   |
