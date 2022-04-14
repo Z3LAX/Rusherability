@@ -3,7 +3,6 @@
 
 <div align="center">
 
-Minecraft Hack Clients
 ===
 ***A collection of mods tested with RusherHack***
 
