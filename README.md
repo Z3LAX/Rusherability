@@ -17,7 +17,7 @@
 # Note
 
   
-*** Please note that even though a mod may work with rusher, it may not work with another mod, therefore causing your game to crash. For example RusherHack + Replay mod works however if you add Future client, it will not work!
+` Please note that even though a mod may work with rusher, it may not work with another mod, therefore causing your game to crash. For example RusherHack + Replay mod works however if you add Future client, it will not work! `
 
 
 # Mods
