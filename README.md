@@ -52,18 +52,20 @@
 
 *Be careful with phobos as it has a sketchy background, I will not be providing a link as I don't want to be responsible for someone being ratted.
   
- # Support
-If you have any issues or if there is an error with the list please message me on discord @ toast#5673
 
-  [RusherHack Discord](https://discord.com/invite/nvcCyVKuWy)
-
-  
   
 # Editing
   
   If you have tested a client or a mod then please message me on discord, do not try to edit the repo as I won't add it. Before a mod or client is added to the list, I need verification of the client working with rusherhack. 
   
- </div>
+
+ # Support
+If you have any issues or if there is an error with the list please message me on discord @ `toast#5673`
+
+  [RusherHack Discord](https://discord.com/invite/nvcCyVKuWy)
+
+  
+</div>
  
  
  
