@@ -47,7 +47,10 @@
 | Gamesense        | Yes     | [Website](https://github.com/IUDevman/gamesense-client)   |
 | Future        | Yes     | [Website](https://www.futureclient.net/)   |
 | Lambda        | Yes     | [Website](https://github.com/lambda-client/lambda/)   |
+| Seppuku        | No     | [Website](https://seppuku.pw)   |
+| Phobos *       | Yes     | No Link   |
 
+*Be careful with phobos as it has a sketchy background, I will not be providing a link as I don't want to be responsible for someone being ratted.
   
  # Support
 If you have any issues or if there is an error with the list please message me on discord @ toast#5673
