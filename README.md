@@ -48,7 +48,8 @@
 | Future        | Yes     | [Website](https://www.futureclient.net/)   |
 
   
-  </div>
-# Support
+ # Support
 If you have any issues or if there is an error with the list please message me on discord @ toast#5673
 [RusherHack Discord](https://discord.com/invite/nvcCyVKuWy)
+
+ </div>
