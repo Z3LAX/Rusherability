@@ -16,7 +16,6 @@ Template:
 
 # Mods
 
-| Name | Works? | Download |
 
 | Name          | Works?        | Download   
 | ------------- | ------------- | --------    |
