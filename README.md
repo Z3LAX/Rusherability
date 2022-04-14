@@ -57,4 +57,13 @@ If you have any issues or if there is an error with the list please message me o
 
   [RusherHack Discord](https://discord.com/invite/nvcCyVKuWy)
 
+  
+  
+# Editing
+  
+  If you have tested a client or a mod then please message me on discord, do not try to edit the repo as I won't add it. Before a mod or client is added to the list, I need verification of the client working with rusherhack. 
+  
  </div>
+ 
+ 
+ 
