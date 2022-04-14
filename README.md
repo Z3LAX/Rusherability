@@ -17,5 +17,7 @@ Template:
 # Mods
 
 | Name | Works? | Download | Download |
+
 | :--: | :-----: | :---: | :------: | :-: |
+
 | Optifine | **Yes** | [Download](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&x=1224) |
