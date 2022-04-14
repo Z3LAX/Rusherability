@@ -33,6 +33,7 @@
 | Vanilla Fix        | No     | [Website](https://www.curseforge.com/minecraft/mc-mods/vanillafix)   |
 | Replay Mod        | Yes     | [Website](https://www.replaymod.com/download/)   |
 | Particle Culling       | Yes     | [Website](https://www.curseforge.com/minecraft/mc-mods/particle-culling/)   |
+| Better Biome Blend       | Yes     | [Website](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend/)   |
 
 
  # Clients
