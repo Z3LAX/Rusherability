@@ -51,6 +51,7 @@
 | Lambda        | Yes     | [Website](https://github.com/lambda-client/lambda/)   |
 | Seppuku        | No     | [Website](https://seppuku.pw)   |
 | Phobos *       | Yes     | No Link   |
+| Abyss        | Yes     | [Website](https://abyssclient.com)   |
 
 
 *Be careful with phobos as it has a sketchy background, I will not be providing a link as I don't want to be responsible for someone being ratted.
